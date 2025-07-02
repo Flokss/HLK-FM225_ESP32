@@ -46,8 +46,8 @@
 Измените в коде данные своей сети:
 
 ```cpp
-const char* ssid     = "vzvt2";
-const char* password = "rrr12345678";
+const char* ssid     = "SSID";
+const char* password = "PASS";
 ```
 
 ## 🕒 Синхронизация времени
