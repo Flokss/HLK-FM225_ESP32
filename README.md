@@ -66,7 +66,7 @@ configTzTime("UTC-3", "pool.ntp.org", "time.nist.gov");
 
 ```
 .
-├── main.cpp
+├── FM-225.ino
 ├── README.md
 └── data/
     └── unlocklog.json (создаётся автоматически)
@@ -99,14 +99,10 @@ configTzTime("UTC-3", "pool.ntp.org", "time.nist.gov");
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
 - [SPIFFS](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/storage/spiffs.html)
 
-## 🛠️ TODO
 
-- [ ] Поддержка OTA-обновлений
-- [ ] Выгрузка логов по USB
-- [ ] Поддержка Telegram-уведомлений
 
 ---
 
 ### Автор
 
-Разработка и интеграция — **[Ваше Имя или ник]**
+Разработка и интеграция — **Floks**
